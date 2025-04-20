@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 from win10toast import ToastNotifier
 
 # — Configuration
-URL = "http://192.168.190.60:8000/"
+URL = "http://192.168.58.103:8000/"
 POLL_INTERVAL = 60
 LOW_THRESHOLD = 30
 HIGH_THRESHOLD = 70
